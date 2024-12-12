@@ -1,0 +1,104 @@
+
+
+.sign-up:hover{
+    background-color: white;
+    color: black;
+    border: 2px solid black;
+}
+.button-1{
+    background-color: black;
+    color: white;
+}
+.button-1:hover{
+    background-color: white;
+    color: black;
+    border: 2px solid black;
+}
+.container2{
+    margin: 10px;
+    display: flex;
+    border: 2px solid black 
+   }
+   .box-1{ 
+    
+       margin: 10px 10px ;
+       border: 2px solid black;
+   }
+   .box-2{ 
+   
+       margin: 10px 10px ;
+       border: 2px solid black;
+   }
+   .box-3{ 
+   
+       margin: 10px 10px ;
+       border: 2px solid black;
+   }
+     .div5{
+      position: relative;
+      left: 550px;
+      top: 25px;
+     }
+     .div6{
+        position: relative;
+        left: 550px;
+        top: 20px;
+        font-size: 25px;
+        
+     }
+     .div6>p{
+        position: relative;
+        line-height: 40px;
+        top: 20px;
+     }
+     .div7{
+        position: absolute;
+        left: 30px
+     }
+     .div8{
+            position: relative;
+            top: 120px;
+            display: flex;
+            justify-content: center;
+     }
+     .atif1{
+                 display: flex;
+                 gap: 60px;       
+     }
+     .div10>h1{
+        width: 500px;
+
+     }
+     .div11{
+        width: 576px;
+        height: 80px;
+        margin-right: 100px;
+        margin-top: 25px;
+        border: 2px solid black;
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+     }
+     .div>h2{
+        display: flex;
+        align-items: center;
+     }
+     .div11>button{
+            position: relative;
+            left: 5px;
+     }
+     .h2-1{
+        font-size: 25px;
+        display: flex;
+        align-items: center;
+        justify-content: flex-start;
+     }
+    
+    .button2{
+        width: 180px;
+        height: 57px;
+        align-items: center;
+        font-size: 20px;
+        background-color: black;
+        color: white;
+    }
